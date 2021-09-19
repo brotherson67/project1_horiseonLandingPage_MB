@@ -59,6 +59,9 @@ p {
     background-position: center;
 }
 
+
+/* float organization */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -156,7 +159,7 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+.company_specialties {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -183,17 +186,17 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.company_specialties img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
+/* .online-reputation-management img {
     max-height: 200px;
 }
 
 .social-media-marketing img {
     max-height: 200px;
-}
+} */
 
 .footer {
     padding: 30px;
