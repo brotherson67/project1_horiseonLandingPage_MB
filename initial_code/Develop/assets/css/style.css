@@ -95,11 +95,11 @@ p {
 
 .content img {
     width: auto;
+    max-height: 200px;
 }
 
 
-/* beginning of flag styling
- */
+/* beginning of flag styling*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -168,7 +168,7 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
+/* .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -184,11 +184,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
-
-.company_specialties img {
-    max-height: 200px;
-}
+} */
 
 /* .online-reputation-management img {
     max-height: 200px;
