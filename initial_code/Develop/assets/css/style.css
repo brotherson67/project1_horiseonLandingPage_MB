@@ -80,13 +80,14 @@ p {
 
 .content h2 {
     margin-bottom: 20px;
-    font-size: 48px;
+    font-size: 36px;
 }
 
 .content p {
-    font-size: small;
+    font-size: 24px;
     width: auto;
     padding: auto;
+    margin: 0px 60px 0px auto;
 }
 
 .content img {
