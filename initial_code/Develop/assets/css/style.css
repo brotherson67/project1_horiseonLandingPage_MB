@@ -79,11 +79,12 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    padding: auto;
 }
 
 .content h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 48px;
 }
 
 .content p {
@@ -95,13 +96,13 @@ p {
 
 .content img {
     width: auto;
-    max-height: 200px;
+    max-height: 250px;
 }
 
 
 /* beginning of flag styling*/
 .benefits {
-    margin-right: 20px;
+    margin: 0px 20px;
     padding: 20px;
     clear: both;
     float: right;
@@ -120,12 +121,19 @@ p {
 .your-benefit h3 {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 24px;
 }
 
 .your-benefit img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
+    max-width: 175px;
+}
+
+.your-benefit p {
+    padding: 20px;
+    font-size: 18px;
+
 }
 
 .company_specialties {
